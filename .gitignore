@@ -7,3 +7,5 @@ dist
 __version__
 .venv/
 .coverage
+test.mp4
+test.srt
